@@ -21,9 +21,10 @@ Andrew Bernstein
 ### Links
 
 [Arduino](https://www.arduino.cc/ "Arduino")
+[10 Inspiring Arduino Projects](https://www.youtube.com/watch?v=iVsQ1Al9tYk "Youtube")
 
 
-![BigP](A_Bernstein_Workshop_Handout.png)
+![BigP](piezo_handout01.png)
 
 
 
