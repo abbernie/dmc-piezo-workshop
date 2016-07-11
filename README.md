@@ -21,6 +21,7 @@ Andrew Bernstein
 ### Links
 
 * [Arduino](https://www.arduino.cc/ "Arduino")
+* [Arduino Art Pieces](https://www.youtube.com/watch?v=1jlQjSE9bHo&list=PLm4ayUZae7Iz9joXvhQXaYg-HU1MWI8Xk "YouTube")
 * [10 Inspiring Arduino Projects](https://www.youtube.com/watch?v=iVsQ1Al9tYk "Youtube")
 
 
