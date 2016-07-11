@@ -20,8 +20,8 @@ Andrew Bernstein
 
 ### Links
 
-[Arduino](https://www.arduino.cc/ "Arduino")
-[10 Inspiring Arduino Projects](https://www.youtube.com/watch?v=iVsQ1Al9tYk "Youtube")
+*[Arduino](https://www.arduino.cc/ "Arduino")
+*[10 Inspiring Arduino Projects](https://www.youtube.com/watch?v=iVsQ1Al9tYk "Youtube")
 
 
 ![BigP](piezo_handout01.png)
