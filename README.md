@@ -29,5 +29,12 @@ Andrew Bernstein
 
 ![BigP](piezo_handout01.png)
 
+### Further Development
+
+* Connect multiple piezo buzzers to acheive polyphony
+* Connect LEDs to light up when the buzzer sounds
+* Use a MIDI keyboard to control the pitch of the buzzer
+* Use the piezo as an input source to light up an LED
+
 
 
